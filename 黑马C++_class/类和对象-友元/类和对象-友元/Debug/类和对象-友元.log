@@ -1,0 +1,24 @@
+﻿生成启动时间为 2021/9/8 16:58:05。
+     1>项目“C:\Users\lenovo\Desktop\VS2013PR\黑马C++\黑马C++_class\类和对象-友元\类和对象-友元\类和对象-友元.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\NewLand\Visual_Studio_13\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "03 成员函数做友元.cpp"
+         03 成员函数做友元.cpp
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(18): error C2512: “Building”: 没有合适的默认构造函数可用
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(23): error C2027: 使用了未定义类型“Building”
+                 c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(5) : 参见“Building”的声明
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(23): error C2227: “->m_sittingRoom”的左边必须指向类/结构/联合/泛型类型
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(24): error C2027: 使用了未定义类型“Building”
+                 c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(5) : 参见“Building”的声明
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(24): error C2227: “->m_BedRoom”的左边必须指向类/结构/联合/泛型类型
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(28): error C2027: 使用了未定义类型“Building”
+                 c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(5) : 参见“Building”的声明
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(28): error C2227: “->m_sittingRoom”的左边必须指向类/结构/联合/泛型类型
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(29): error C2027: 使用了未定义类型“Building”
+                 c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(5) : 参见“Building”的声明
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-友元\类和对象-友元\03 成员函数做友元.cpp(29): error C2227: “->m_BedRoom”的左边必须指向类/结构/联合/泛型类型
+     1>已完成生成项目“C:\Users\lenovo\Desktop\VS2013PR\黑马C++\黑马C++_class\类和对象-友元\类和对象-友元\类和对象-友元.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.54

@@ -1,0 +1,49 @@
+﻿生成启动时间为 2021/9/2 19:30:17。
+     1>项目“C:\Users\lenovo\Desktop\VS2013PR\黑马C++\黑马C++_class\类和对象-封装\类和对象-封装\类和对象-封装.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\NewLand\Visual_Studio_13\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "07 点和圆的关系案例.cpp" circle.cpp point.cpp
+         point.cpp
+         circle.cpp
+         07 点和圆的关系案例.cpp
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(74): error C2065: “Circle”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(74): error C2065: “c”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(74): error C2065: “Point”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(74): error C2065: “p”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(75): error C2448: “isInCircle”: 函数样式初始值设定项类似函数定义
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(103): error C2065: “Circle”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(103): error C2146: 语法错误: 缺少“;”(在标识符“c”的前面)
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(103): error C2065: “c”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(104): error C2065: “c”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(104): error C2228: “.setR”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(105): error C2065: “Point”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(105): error C2146: 语法错误: 缺少“;”(在标识符“center”的前面)
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(105): error C2065: “center”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(106): error C2065: “center”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(106): error C2228: “.setX”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(107): error C2065: “center”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(107): error C2228: “.setY”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(108): error C2065: “c”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(108): error C2228: “.setCenter”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(108): error C2065: “center”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(111): error C2065: “Point”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(111): error C2146: 语法错误: 缺少“;”(在标识符“p”的前面)
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(111): error C2065: “p”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(112): error C2065: “p”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(112): error C2228: “.setX”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(113): error C2065: “p”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(113): error C2228: “.setY”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(116): error C2065: “c”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(116): error C2065: “p”: 未声明的标识符
+     1>c:\users\lenovo\desktop\vs2013pr\黑马c++\黑马c++_class\类和对象-封装\类和对象-封装\07 点和圆的关系案例.cpp(116): error C3861: “isInCircle”:  找不到标识符
+         正在生成代码...
+     1>已完成生成项目“C:\Users\lenovo\Desktop\VS2013PR\黑马C++\黑马C++_class\类和对象-封装\类和对象-封装\类和对象-封装.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.02
